@@ -5,7 +5,7 @@ repo: [https://github.com/Vision-X/React-VR-Drums-WorkingModel]
 
 
 deployed React-VR:
-[https://vr-drum-demo.herokuapp.com/](my drum demo in React-VR)
+[https://vr-drum-demo.herokuapp.com/]
 
 ## Project Description
 
