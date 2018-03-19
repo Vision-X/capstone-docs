@@ -7,6 +7,8 @@
 
 #### VR BeatLab
 -- Experience interactive drum machine basics through WebVR. Use your existing headset and supported controllers to be immersed inside a world of sound and visual feedback.
+
+
 -- Don't just listen to music; make your own and feel it come alive in VR BeatLab.
 
 
