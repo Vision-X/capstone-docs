@@ -1,7 +1,11 @@
 # Project Proposal: CAPSTONE - VR BeatLab
 
 ---
-[https://github.com/Vision-X/React-VR-Drums-WorkingModel] working model of objects and sound triggers in React-VR
+repo: [https://github.com/Vision-X/React-VR-Drums-WorkingModel] 
+
+
+deployed React-VR:
+[https://vr-drum-demo.herokuapp.com/](my drum demo in React-VR)
 
 ## Project Description
 
