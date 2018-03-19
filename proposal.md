@@ -44,13 +44,29 @@ VR BeatLab is a simple interface within a VR framework that provides various sou
 
 #### A-frame Libraries/Resources
 a. 3-D Dev Tools - https://www.npmjs.com/package/aframe-dev-components#npm
+
+
 b. Location persistence - https://www.npmjs.com/package/aframe-location-persistance-component
+
+
 c. Keyboard controls - https://www.npmjs.com/package/aframe-keyboard-controls
+
+
 d. Audio Visualizer - https://www.npmjs.com/package/aframe-audioanalyser-component
+
+
 e. Metronome - https://www.npmjs.com/package/aframe-metronome-component
+
+
 f. GUI widgets - https://www.npmjs.com/package/aframe-gui
+
+
 g. Oculus Control integration - https://www.npmjs.com/package/aframe-controller-cursor-component
+
+
 e. BlockVR Asset Creation - https://vr.google.com/blocks/
+
+
 
 ## MVP
 The Minimum viable product for this project is to have an interactive set of drum triggers on various objects. On trigger, the object and the larger panorama should display visual effects associated with the triggered sound. The user will be able to change between a few pre-made sound libraries that will be mapped to the trigger objects. A very minimal environment will be build around the user - with room for visualizer and a GUI for changing sound-sets.
