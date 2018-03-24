@@ -1,4 +1,4 @@
-# Project Proposal: CAPSTONE - VR BeatLab
+# Project Proposal: CAPSTONE - DrumLabVR
 
 ---
 repo: [https://github.com/Vision-X/React-VR-Drums-WorkingModel] 
