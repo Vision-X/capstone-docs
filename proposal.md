@@ -1,10 +1,10 @@
 # Project Proposal: CAPSTONE - DrumLabVR
 
----
-repo: [https://github.com/Vision-X/React-VR-Drums-WorkingModel] 
+## Project Research / Working Model
+repo for React-VR working model: 
+[https://github.com/Vision-X/React-VR-Drums-WorkingModel] 
 
-
-deployed React-VR:
+deployed React-VR working model:
 [https://vr-drum-demo.herokuapp.com/]
 
 ## Project Description
@@ -35,17 +35,23 @@ VR BeatLab is a simple interface within a VR framework that provides various sou
 
 #### Hardware
 -- Oculus Rift
+
 -- Headphones
 
 #### Front End
 -- HTML/CSS
+
 -- React / React-VR
+
 -- A-Frame (WebVR/WebGL/THREEjs)
 
 #### Back End
 -- Node
+
 -- Express
+
 -- Knex
+
 -- pSQL
 
 #### A-frame Libraries/Resources
