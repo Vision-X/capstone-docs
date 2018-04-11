@@ -80,7 +80,7 @@ The Minimum viable product for this project is to have an interactive set of dru
 (first iteration is click events, then keyboard events, then Rift controller interaction)
 
 ## STRETCH GOALS
-By Order And Importance:
+By Order of Importance:
 1. Custom room environment and 3-D models (built with BlockVR)
 2. Step Sequencer / Live Recording for 2-bar loop
 3. Loop playback environment
