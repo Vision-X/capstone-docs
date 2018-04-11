@@ -67,15 +67,20 @@ g. Oculus Control integration - https://www.npmjs.com/package/aframe-controller-
 e. BlockVR Asset Creation - https://vr.google.com/blocks/
 
 ## MVP
-The Minimum viable product for this project is to have an interactive set of drum triggers on various objects. On trigger, the object and the larger panorama should display visual effects associated with the triggered sound. The user will be able to change between a few pre-made sound libraries that will be mapped to the trigger objects. A very minimal environment will be build around the user - with room for visualizer and a GUI for changing sound-sets.
+The Minimum viable product for this project is to have an interactive set of drum triggers on various objects. On trigger, the object and the larger panorama should display visual effects associated with the triggered sound. The user will be able to change between a few pre-made sound libraries that will be mapped to the trigger objects. A very minimal environment will be built around the user - with a section for visualization and a GUI for changing sound sets or note repeat intervals.
 
 (first iteration is click events, then keyboard events, then Rift controller interaction)
 
 ## STRETCH GOALS
 By Order of Importance:
 1. Custom room environment and 3-D models (built with BlockVR)
+
 2. Step Sequencer / Live Recording for 2-bar loop
+
 3. Loop playback environment
+
 4. Save / Export loops
+
 5. youtube "play-a-long"
+
 6. Gameification - Guitar Hero clone? (so stretchhhhh)
